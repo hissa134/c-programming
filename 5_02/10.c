@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-// ここに関数を定義しよう
+int add(int a, int b) {
+    return a + b;
+}// ここに関数を定義しよう
 
 int main() {
     // 関数を呼び出そう
